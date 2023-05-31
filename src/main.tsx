@@ -13,6 +13,7 @@ const queryClient = new QueryClient({
 			retry: 3,
 			cacheTime: 300_000, // 5m
 			staleTime: 0, //Data Valide Time
+			keepPreviousData: true,
 
 			// refetchOnWindowFocus: false,
 			// refetchOnReconnect: false,

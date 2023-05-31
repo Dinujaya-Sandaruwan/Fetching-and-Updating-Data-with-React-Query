@@ -1,54 +1,22 @@
-# For chatGPT
+# Playground Start
 
-TODO: Describe Project
+This is the starter code for the playground project we use in part 2 of my React course. 
 
-Package.json :
+## Getting Started
 
-TODO: Add Package.json
+To get started, follow these steps:
 
-Those are the details about my project and I need to add this in my GitHub.
+1. Clone this repository to your local machine.
+2. Run `npm install` to install the required dependencies.
+3. Run `npm run dev` to start the web server. 
 
-Write a complete readme.md file for this project
+## About the Course
 
-Readme.md file details :
+This repository belongs to part 2 of my React course covering intermediate-level topics. 
 
-Title :- TODO: add Title
+- Fetching and updating data with React Query
+- All about reducers, context, and providers
+- Managing application state with Zustand
+- Routing with React Router 
 
-1.  About The Project -> (A description about project. use more than 50 words)
-
-Need to add a screenshot of this project (align-center)(url- TODO: https://dinujaya.com/img.jpg) This image should link to live preview page(url - TODO: http://dinujaya.com/)
-
-2.  Used Technologies -> (Add what I used to build this project. programming languages, tools and modules. Explain what are those technologies with short description)
-3.  Usage -> (Give complete usetage of this project, Features, how to use them and how they will be usefull to user)
-4.  How to use -> (Give a complete detailed guid about how to install this project) => (
-
-    How to Clone this repository (), Install the dependencies, Run the development server
-    LocalHost URL = http://localhost:5173/
-    Repository URL = TODO: REPO URL
-
-    Explain how to do above things
-    )
-
-5.  Contributing -> (Explain how to contribute this project)
-6.  License -> (MIT License) (Explain how MIT License works)
-7.  Contact -> (Add my contact details in linked texts) => (
-
-    this is linked text and URL
-
-    FaceBook : https://www.facebook.com/dinujaya.sandaruwan/
-    Linkedin : https://www.linkedin.com/in/dinujaya-sandaruwan-23bb09201/
-    Sololearn : https://www.sololearn.com/profile/28608081
-    Youtube : https://www.youtube.com/channel/UCVwXuCDRdBjzNUOWYOCO_xg
-
-)(Email : info.dinujaya@gmail.com)
-
-8.  Acknowledgments -> (
-
-        Idea :
-        Inspired :
-
-        Write about how they helped to do this project
-
-    )
-
-Change anything other than Details as you wish. Create a beautiful template.
+You can find the course at https://codewithmosh.com
